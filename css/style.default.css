@@ -527,7 +527,7 @@ body {
   font-size: 16px;
   line-height: 1.42857143;
   color: black;
-  background-color: lightgreen;
+  background-color: rgb(42, 79, 110);
 }
 a {
   color: #4fbfa8;
